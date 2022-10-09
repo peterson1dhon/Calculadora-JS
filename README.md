@@ -1,13 +1,13 @@
 # Calculadora-JS
  
 
-![preview](https://drive.google.com/file/d/1T_o8SPnuwakypU2bgp4Fcjp7rLv4Q1IP/view?usp=sharing)
+![preview](./img/gitHub.jpg)
 
-> Netflix clone com REACT JS 
+> CALCULADORA JS 
 
-Projeto construído do tutorial em video Pasquadev, (com modificações).
+Projeto construído do tutorial em video HORA DE CODAR, (com modificações).
 
-[🔗 Clique aqui para acessar](https://netflix-clone-cd407.web.app/)
+[🔗 Clique aqui para acessar](https://github.com/peterson1dhon/Calculadora-JS)
 
 
 ## 🛠 Tecnologias
